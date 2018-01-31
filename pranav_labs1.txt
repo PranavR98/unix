@@ -1,0 +1,43 @@
+1.To create a directory for unix-$ mkdir pranav
+2.To see the directory created-$ ls
+3.To display all the files in the system-$ cd pranav
+4.To create a file in unix-$ vim filename
+5.To create a text document-$ gedit filename.txt
+press Esc for command mode
+6.x-To delete a character
+7.u-To undo a deleted character
+8.CTRL-R-To redo
+9.A-to append the text at end of the file
+10.shift :wq-To save the file
+11.shift :ql-to remove the changes
+12.dw-to move the cursor at the beginning of the word to delete the word
+13.2w-to move the cursor two words forward
+14.3e-to move the cursor at the end of the third word
+15.0-to move to the start of the line
+16.d2w-to delete two words
+17.dd-to delete the entire line
+18.p-to put the previous deleted text after the cursor
+19.r-to replace the letter
+20.ce-to change until
+21.G-to move you to the bottom of the file
+22.gg-to move you to the start of the line
+23.%-to find a matching like ),] or }
+24.:s/old/new/g-to substitute new for old where g is globally
+25./- backward search n to fling the next occurence and N to search in opposite direction
+26.?-forward search
+27.:!-to run the shell commands like :!dir,:!ls
+28.:w-Test (where Test is the filename you chose). save the file
+29.v-starts the visual mode
+30.:r-filename will insert content into current file
+31.R-to replace more than one character
+32.y- operator to copy text using v visual mode and p to paste it
+33.yw- (copy) yanks one word
+34.o- opens a line below the cursor and start insert mode
+35.O- opens a line above the cursor
+36.a- insert text after the cursor
+37.A- inserts text after the end of the line
+38.e- command moves to the end of the word
+39.y- operator yanks (copies) text,p puts (paste) it
+40.R- enters Replace mode until <ESC> is pressed
+41.ctrl-w- to jump from one window to another
+
